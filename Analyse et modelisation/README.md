@@ -6,11 +6,11 @@ Application de gestion des livres.
 
 ### Entite-Association 
 
-![Logo](file/mdc.jpg) 
+![Logo](mdc.jpg) 
 
 ### Modèle logique de données  
 
-![Logo](file/mdc.jpg) 
+![Logo](mdc.jpg) 
 
 ## Contributeurs
 
