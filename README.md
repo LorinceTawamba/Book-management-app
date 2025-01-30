@@ -45,6 +45,6 @@ Cette application permet de :
 1. Un livre est celui d'un et un seul auteur. 
 1. Un auteur a aumoins un livre. 
 
-## Contributors
+## Contributeurs
 
 - [Lorince Tawamba](https://github.com/LorinceTawamba) 
