@@ -1,14 +1,10 @@
-# Book-management-app 
+# Analyse et modelisation 
 
-Application de gestion des livres. 
-
-## Analyse et modelisation 
-
-### Entite-Association 
+## Entite-Association 
 
 ![Logo](mdc.jpg) 
 
-### Modèle logique de données  
+## Modèle logique de données  
 
 ![Logo](mdc.jpg) 
 
