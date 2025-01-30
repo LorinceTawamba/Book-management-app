@@ -6,7 +6,7 @@
 
 ## Modèle logique de données  
 
-![Logo](mdc.jpg) 
+![Logo](mld.jpg) 
 
 ## Contributeurs
 
